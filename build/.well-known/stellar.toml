@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAANNOYKFJIQISJ6JOPW2U2O7FGTWRHC7MHUFVOSZSLUN45MVYQDRBBM"
+"GAWBT6SB4ODLHD3D35WMPLOITXKU7ZYLL2VPXEJXR3Z2ASKKLP5GP4OH"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/09wWPz9/tok1.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Creditcoin"
+ORG_URL="https://www.trade-creditcoin.com"
+ORG_DESCRIPTION="A Borderless Credit Investment Network."
+ORG_TWITTER="@creditcoin"
+ORG_LOGO="https://i.ibb.co/PCBVwj2/creditcoin.png"
+ORG_OFFICIAL_EMAIL="support@creditcoin.org"
 
 
 [[CURRENCIES]]
-code="Fortus"
-issuer="GAANNOYKFJIQISJ6JOPW2U2O7FGTWRHC7MHUFVOSZSLUN45MVYQDRBBM"
+code="CTC"
+issuer="GAWBT6SB4ODLHD3D35WMPLOITXKU7ZYLL2VPXEJXR3Z2ASKKLP5GP4OH"
 anchor_asset="false"
-name="Fortus"
-desc="The revolutionary token which can change radically the whole understanding of the blockchain"
+name="Creditcoin"
+desc="Creditcoin connects many blockchains to create a secure, transparent cryptocurrency lending market, that allows fundraisers and lenders to connect directly with one another."
 conditions=""
-image="https://i.ibb.co/09wWPz9/tok1.jpg"
-fixed_number=10000000
-max_number=10000000
+image="https://i.ibb.co/PCBVwj2/creditcoin.png"
+fixed_number=100000
+max_number=100000
 is_unlimited=false
-#Fortus was issued using the open and inclusive Stellar blockchain network.
+#Creditcoin was issued using the open and inclusive Stellar blockchain network.
