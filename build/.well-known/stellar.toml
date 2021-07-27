@@ -10,7 +10,7 @@ ORG_NAME="Creditcoin"
 ORG_URL="https://www.trade-creditcoin.com"
 ORG_DESCRIPTION="A Borderless Credit Investment Network."
 ORG_TWITTER="@creditcoin"
-ORG_LOGO="https://i.ibb.co/PCBVwj2/creditcoin.png"
+ORG_LOGO="https://i.ibb.co/7Q71g9n/logocreditcoin.png"
 ORG_OFFICIAL_EMAIL="support@creditcoin.org"
 
 
@@ -21,7 +21,7 @@ anchor_asset="false"
 name="Creditcoin"
 desc="Creditcoin connects many blockchains to create a secure, transparent cryptocurrency lending market, that allows fundraisers and lenders to connect directly with one another."
 conditions=""
-image="https://i.ibb.co/PCBVwj2/creditcoin.png"
+image="https://i.ibb.co/7Q71g9n/logocreditcoin.png"
 fixed_number=100000
 max_number=100000
 is_unlimited=false
