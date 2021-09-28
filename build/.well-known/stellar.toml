@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAWBT6SB4ODLHD3D35WMPLOITXKU7ZYLL2VPXEJXR3Z2ASKKLP5GP4OH"
+"GBOOPGNRQ7A66ZY6R623G6IZXGJXHMOSWIEICZ7N6PFY3MNLQER5MKM3"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Creditcoin"
-ORG_URL="https://www.trade-creditcoin.com"
+ORG_NAME="NISMO"
+ORG_URL=""
 ORG_DESCRIPTION="A Borderless Credit Investment Network."
-ORG_TWITTER="@creditcoin"
-ORG_LOGO="https://i.ibb.co/7Q71g9n/logocreditcoin.png"
-ORG_OFFICIAL_EMAIL="support@creditcoin.org"
+ORG_TWITTER="@nismocoin"
+ORG_LOGO="https://i.ibb.co/2FgdVQ4/black-logo.png"
+ORG_OFFICIAL_EMAIL="support@nismocoin.org"
 
 
 [[CURRENCIES]]
-code="CTC"
-issuer="GAWBT6SB4ODLHD3D35WMPLOITXKU7ZYLL2VPXEJXR3Z2ASKKLP5GP4OH"
+code="NISMO"
+issuer="GBOOPGNRQ7A66ZY6R623G6IZXGJXHMOSWIEICZ7N6PFY3MNLQER5MKM3"
 anchor_asset="false"
-name="Creditcoin"
-desc="Creditcoin connects many blockchains to create a secure, transparent cryptocurrency lending market, that allows fundraisers and lenders to connect directly with one another."
+name="NISMO"
+desc="NISMO helps to incentivize applications scale by enabling faster and cheaper transactions for their users. We make it easy for developers to build on our platform with support for many different programming languages and grants to incentivize development. Initially, we are also deploying our own applications as a foundation for the ecosystem."
 conditions=""
-image="https://i.ibb.co/7Q71g9n/logocreditcoin.png"
+image="https://i.ibb.co/2FgdVQ4/black-logo.png"
 fixed_number=100000
 max_number=100000
 is_unlimited=false
-#Creditcoin was issued using the open and inclusive Stellar blockchain network.
+#NISMO was issued using the open and inclusive Stellar blockchain network.
