@@ -7,7 +7,7 @@ VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="NISMO"
-ORG_URL=""
+ORG_URL="https://nismocoin.netlify.app"
 ORG_DESCRIPTION="A Borderless Credit Investment Network."
 ORG_TWITTER="@nismocoin"
 ORG_LOGO="https://i.ibb.co/2FgdVQ4/black-logo.png"
