@@ -22,7 +22,7 @@ name="NISMO"
 desc="NISMO helps to incentivize applications scale by enabling faster and cheaper transactions for their users. We make it easy for developers to build on our platform with support for many different programming languages and grants to incentivize development. Initially, we are also deploying our own applications as a foundation for the ecosystem."
 conditions=""
 image="https://i.ibb.co/2FgdVQ4/black-logo.png"
-fixed_number=100000
-max_number=100000
+fixed_number=100001
+max_number=1000001
 is_unlimited=false
 #NISMO was issued using the open and inclusive Stellar blockchain network.
